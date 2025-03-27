@@ -1,4 +1,4 @@
-/output
-/readme.md
-/report.md
 /venv
+/__pycache__
+/logs/*
+!/logs/.gitkeep

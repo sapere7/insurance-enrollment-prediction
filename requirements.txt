@@ -16,3 +16,4 @@ pydantic
 # Utilities
 python-dotenv
 joblib
+PyYAML
