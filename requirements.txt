@@ -1,0 +1,18 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# ML explanations
+shap
+
+# API and server
+fastapi
+uvicorn
+pydantic
+
+# Utilities
+python-dotenv
+joblib
